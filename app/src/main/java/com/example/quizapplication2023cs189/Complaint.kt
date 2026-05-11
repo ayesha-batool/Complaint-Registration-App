@@ -1,4 +1,4 @@
-package com.example.quizapplication2023cs189
+package com.example.QUIZ2Application
 
 data class Complaint(
     val id: String = "",

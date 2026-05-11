@@ -1,5 +1,4 @@
-package com.example.quizapplication2023cs189
-
+package com.example.QUIZ2Application
 import android.content.Intent
 import android.graphics.Color
 import android.view.LayoutInflater

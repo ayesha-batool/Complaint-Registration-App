@@ -1,5 +1,5 @@
 
-package com.example.quizapplication2023cs189
+package com.example.QUIZ2Application
 import android.graphics.Color
 import android.os.Bundle
 import android.widget.TextView
